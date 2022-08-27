@@ -10,8 +10,11 @@
 
 ☕   I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
+📫   How to reach me: sabyasachi1912@gmail.com
 
-🛠 Tech Stack
+
+
+<h3>🛠 Tech Stack</h3>
 
 
 🌐   Android | flutter | HTML | CSS | JavaScript | Bootstrap
