@@ -8,8 +8,6 @@ Nowadays I work mostly with AWS Lightsail, WooCommerce, Wordpress, SEO, PHP and 
 
 🌱   Enthusiast in Cloud Technologies - AWS Lightsail & Google Cloud.
 
-✍️   I love to edit films and trying out latest design trends as hobbies/side hustles.
-
 ☕   I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
 🥅  2022 Goals: Contribute more to Open Source projects on Web Development
