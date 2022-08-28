@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+Nowadays I work mostly with AWS Lightsail, WooCommerce, Wordpress, SEO, PHP and ReactJS with design & hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance. 👋
  
 🔭   I’m currently learning MERN Stack Development
 
