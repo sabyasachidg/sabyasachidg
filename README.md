@@ -42,6 +42,8 @@ Nowadays I work mostly with AWS Lightsail, WooCommerce, Wordpress, SEO, PHP and 
 
 
 ![sabyasachidg's Stats](https://github-readme-stats.vercel.app/api?username=sabyasachidg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![sabyasachidg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabyasachidg&theme=vue-dark&hide_border=true)
+![sabyasachidg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabyasachidg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 
