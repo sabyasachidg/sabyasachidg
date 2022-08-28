@@ -12,7 +12,19 @@ Nowadays I work mostly with AWS Lightsail, WooCommerce, Wordpress, SEO, PHP and 
 
 ☕   I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
-📫   How to reach me: sabyasachi1912@gmail.com
+🥅  2022 Goals: Contribute more to Open Source projects on Web Development
+
+⚡  Fun fact: I love to edit films and play GTA/Valorant.
+
+💻  Aim to master MERN Stack Development
+
+☁️  Cloud Technologies used: AWS Lightsail, Google Cloud
+
+👀  I help people to make passive income through Adsense Automation
+
+📱  Actively maintaining thinkwebb automation website and insight gro (Job Board)
+
+📫  How to reach me: sabyasachi1912@gmail.com
 
 
 
